@@ -31,12 +31,12 @@ description: >-
   the entire Bitcoin ecosystem without relying on third-party services.
 releaseNotes: >-
   Initial release with Docker and Umbrel support.
-developer: LiberDev
+developer: Satoshi-Dashboard
 website: "https://www.satoshidashboard.com"
 dependencies: []
 repo: "https://github.com/Satoshi-Dashboard/main"
 support: "https://github.com/Satoshi-Dashboard/main/issues"
-port: 8787
+port: 8410
 gallery:
   - 1.jpg
   - 2.jpg
@@ -48,5 +48,5 @@ gallery:
 path: ""
 defaultUsername: ""
 defaultPassword: ""
-submitter: LiberDev
-submission: ""
+submitter: Satoshi-Dashboard
+submission: "https://github.com/getumbrel/umbrel-apps/pull/5312"
